@@ -1,0 +1,747 @@
+{
+	"prefixes": [
+		{
+			"prefix": "un",
+			"definition": "not"
+		},
+		{
+			"prefix": "im",
+			"definition": "not"
+		},
+		{
+			"prefix": "in",
+			"definition": "not"
+		},
+		{
+			"prefix": "dis",
+			"definition": "not/opposite of"
+		},
+		{
+			"prefix": "il",
+			"definition": "not"
+		}
+	],
+	"suffixes": [
+		{
+			"suffix": "(i)ly",
+			"definition": "to a certain degree"
+		},
+		{
+			"suffix": "ness",
+			"definition": "state or condition"
+		},
+		{
+			"suffix": "(i)ty",
+			"definition": "state or condition"
+		},
+		{
+			"suffix": "ic",
+			"definition": "to have the characteristics of"
+		},
+		{
+			"suffix": "ical",
+			"definition": "to form adjectives from nouns"
+		},
+		{
+			"suffix": "ry",
+			"definition": "suffix forming nouns"
+		},
+		{
+			"suffix": "less",
+			"definition": "not having"
+		},
+		{
+			"suffix": "ship",
+			"definition": "the quality or condition of something"
+		},
+		{
+			"suffix": "ful",
+			"definition": "to have"
+		},
+		{
+			"suffix": "ist",
+			"definition": "a person who does something"
+		},
+		{
+			"suffix": "en",
+			"definition": "to form verbs from adjectives or nouns"
+		},
+		{
+			"suffix": "(e)r",
+			"definition": "a person who does an action"
+		},
+		{
+			"suffix": "able",
+			"definition": "can do something"
+		},
+		{
+			"suffix": "ence",
+			"definition": "an action/process/condition"
+		},
+		{
+			"suffix": "ous",
+			"definition": "to have"
+		},
+		{
+			"suffix": "y",
+			"definition": "to have; quality or condition"
+		},
+		{
+			"suffix": "ing",
+			"definition": "to show the action of the verb or its result"
+		},
+		{
+			"suffix": "(e)d",
+			"definition": "adjectives indicating a condition or quality resulting from the action of the verb"
+		},
+		{
+			"suffix": "ment",
+			"definition": "to describe an action or a resulting state"
+		},
+		{
+			"suffix": "ive",
+			"definition": "quality or nature of"
+		},
+		{
+			"suffix": "or",
+			"definition": "a person who does an action"
+		},
+		{
+			"suffix": "ess",
+			"definition": "to indicate a female"
+		},
+		{
+			"suffix": "ion",
+			"definition": "act of/state of"
+		},
+		{
+			"suffix": "ify",
+			"definition": "to make / to become"
+		},
+		{
+			"suffix": "ery",
+			"definition": "nouns describing occupation, business, places"
+		},
+		{
+			"suffix": "(i)an",
+			"definition": "one having a certain skill/one belonging to a place"
+		},
+		{
+			"suffix": "s",
+			"definition": "a branch of knowledge"
+		},
+		{
+			"suffix": "sion",
+			"definition": "a state/condition/process"
+		},
+		{
+			"suffix": "ary",
+			"definition": "relating to/place where"
+		},
+		{
+			"suffix": "(o)logy",
+			"definition": "the study of"
+		},
+		{
+			"suffix": "dom",
+			"definition": "state of being/state of mind"
+		},
+		{
+			"suffix": "ize",
+			"definition": "to make"
+		},
+		{
+			"suffix": "ren",
+			"definition": "persons younger than 18"
+		},
+		{
+			"suffix": "ish",
+			"definition": "to have the quality of"
+		},
+		{
+			"suffix": "hood",
+			"definition": "a state or condition/a group sharing a state or condition"
+		}
+	],
+	"roots": [
+		{
+			"root": "Easy",
+			"words": [
+				{
+					"word": "Easily",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Uneasy",
+					"prefix": "un"
+				},
+				{
+					"word": "Uneasily",
+					"prefix": "un",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Easiness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Uneasiness",
+					"prefix": "un",
+					"suffix": "ness"
+				}
+			]
+		},
+		{
+			"root": "Possible",
+			"words": [
+				{
+					"word": "Impossible",
+					"prefix": "im"
+				},
+				{
+					"word": "Possibly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Impossibly",
+					"prefix": "im",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Possibility",
+					"suffix": "(i)ty"
+				}
+			]
+		},
+		{
+			"root": "Poet",
+			"words": [
+				{
+					"word": "Poetic",
+					"suffix": "ic"
+				},
+				{
+					"word": "Poetical",
+					"suffix": "ical"
+				},
+				{
+					"word": "Poetically",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Poetry",
+					"suffix": "ry"
+				}
+			]
+		},
+		{
+			"root": "Friend",
+			"words": [
+				{
+					"word": "Friendly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Unfriend",
+					"prefix": "un"
+				},
+				{
+					"word": "Unfriendly",
+					"prefix": "un",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Unfriendliness",
+					"prefix": "un",
+					"suffix": "ness"
+				},
+				{
+					"word": "Friendless",
+					"suffix": "less"
+				},
+				{
+					"word": "Friendlessness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Friendship",
+					"suffix": "ship"
+				}
+			]
+		},
+		{
+			"root": "Art",
+			"words": [
+				{
+					"word": "Artful",
+					"suffix": "ful"
+				},
+				{
+					"word": "Artfully",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Artfulness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Artist",
+					"suffix": "ist"
+				}
+			]
+		},
+		{
+			"root": "Bright",
+			"words": [
+				{
+					"word": "Brightly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Brightness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Brighten",
+					"suffix": "en"
+				}
+			]
+		},
+		{
+			"root": "Hope",
+			"words": [
+				{
+					"word": "Hoper",
+					"suffix": "(e)r"
+				},
+				{
+					"word": "Hopeful",
+					"suffix": "ful"
+				},
+				{
+					"word": "Hopefully",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Hopefulness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Hopeless",
+					"suffix": "less"
+				},
+				{
+					"word": "Hopelessly",
+					"suffix": "(i)ly"
+				}
+			]
+		},
+		{
+			"root": "Suit",
+			"words": [
+				{
+					"word": "Suitable",
+					"suffix": "able"
+				},
+				{
+					"word": "Suitably",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Unsuitable",
+					"prefix": "un",
+					"suffix": "able"
+				},
+				{
+					"word": "Unsuitably",
+					"prefix": "un",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Suitability",
+					"suffix": "(i)ty"
+				}
+			]
+		},
+		{
+			"root": "Different",
+			"words": [
+				{
+					"word": "Differently",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Difference",
+					"suffix": "ence"
+				},
+				{
+					"word": "Indifferent",
+					"prefix": "in"
+				},
+				{
+					"word": "Indifferently",
+					"prefix": "in",
+					"suffix": "(i)ly"
+				}
+			]
+		},
+		{
+			"root": "Joy",
+			"words": [
+				{
+					"word": "Joyful",
+					"suffix": "ful"
+				},
+				{
+					"word": "Joyfully",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Joyless",
+					"suffix": "less"
+				},
+				{
+					"word": "Joylessly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Joylessness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Joyous",
+					"suffix": "ous"
+				},
+				{
+					"word": "Joyously",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Joyousness",
+					"suffix": "ness"
+				}
+			]
+		},
+		{
+			"root": "Luck",
+			"words": [
+				{
+					"word": "Lucky",
+					"suffix": "y"
+				},
+				{
+					"word": "Luckily",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Luckless",
+					"suffix": "less"
+				},
+				{
+					"word": "Unlucky",
+					"prefix": "un",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Unluckily",
+					"prefix": "un",
+					"suffix": "(i)ly"
+				}
+			]
+		},
+		{
+			"root": "Excite",
+			"words": [
+				{
+					"word": "Exciting",
+					"suffix": "ing"
+				},
+				{
+					"word": "Excitingly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Excited",
+					"suffix": "(e)d"
+				},
+				{
+					"word": "Excitedly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Excitement",
+					"suffix": "ment"
+				}
+			]
+		},
+		{
+			"root": "Expense",
+			"words": [
+				{
+					"word": "Expensive",
+					"suffix": "ive"
+				},
+				{
+					"word": "Expensively",
+					"suffix": "(i)ly"
+				}
+			]
+		},
+		{
+			"root": "Act",
+			"words": [
+				{
+					"word": "Active",
+					"suffix": "ive"
+				},
+				{
+					"word": "Actively",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Inactive",
+					"prefix": "in",
+					"suffix": "ive"
+				},
+				{
+					"word": "Inactively",
+					"prefix": "in",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Action",
+					"suffix": "ion"
+				},
+				{
+					"word": "Actor",
+					"suffix": "or"
+				},
+				{
+					"word": "Actress ",
+					"suffix": "ess"
+				}
+			]
+		},
+		{
+			"root": "Pure",
+			"words": [
+				{
+					"word": "Pureness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Purity",
+					"suffix": "(i)ty"
+				},
+				{
+					"word": "Purify",
+					"suffix": "ify"
+				}
+			]
+		},
+		{
+			"root": "Honest",
+			"words": [
+				{
+					"word": "Honestly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Honesty",
+					"suffix": "y"
+				},
+				{
+					"word": "Dishonest",
+					"prefix": "dis"
+				},
+				{
+					"word": "Dishonestly",
+					"prefix": "dis",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Dishonesty",
+					"prefix": "dis",
+					"suffix": "y"
+				}
+			]
+		},
+		{
+			"root": "Bake",
+			"words": [
+				{
+					"word": "Baker",
+					"suffix": "(e)r"
+				},
+				{
+					"word": "Bakery",
+					"suffix": "ery"
+				}
+			]
+		},
+		{
+			"root": "Politic",
+			"words": [
+				{
+					"word": "Political",
+					"suffix": "ical"
+				},
+				{
+					"word": "Politically",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Politics",
+					"suffix": "s"
+				},
+				{
+					"word": "Politician",
+					"suffix": "(i)an"
+				}
+			]
+		},
+		{
+			"root": "Decide",
+			"words": [
+				{
+					"word": "Decided",
+					"suffix": "(e)d"
+				},
+				{
+					"word": "Decidedly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Decision",
+					"suffix": "sion"
+				},
+				{
+					"word": "Decider",
+					"suffix": "(e)r"
+				}
+			]
+		},
+		{
+			"root": "Imagine",
+			"words": [
+				{
+					"word": "Imagination",
+					"suffix": "ion"
+				},
+				{
+					"word": "Imaginative",
+					"suffix": "ive"
+				},
+				{
+					"word": "Imaginatively",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Imaginable",
+					"suffix": "able"
+				},
+				{
+					"word": "Imaginary",
+					"suffix": "ary"
+				}
+			]
+		},
+		{
+			"root": "Zoo",
+			"words": [
+				{
+					"word": "Zoology",
+					"suffix": "(o)logy"
+				},
+				{
+					"word": "Zoological",
+					"suffix": "ical"
+				},
+				{
+					"word": "Zoologist",
+					"suffix": "ist"
+				}
+			]
+		},
+		{
+			"root": "Bore",
+			"words": [
+				{
+					"word": "Boring",
+					"suffix": "ing"
+				},
+				{
+					"word": "Boringly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Bored",
+					"suffix": "(e)d"
+				},
+				{
+					"word": "Boredom",
+					"suffix": "dom"
+				}
+			]
+		},
+		{
+			"root": "Legal",
+			"words": [
+				{
+					"word": "Legally",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Illegal",
+					"prefix": "il"
+				},
+				{
+					"word": "Illegally",
+					"prefix": "il",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Legalize",
+					"suffix": "ize"
+				},
+				{
+					"word": "Legalization",
+					"suffix": "ion"
+				}
+			]
+		},
+		{
+			"root": "Child",
+			"words": [
+				{
+					"word": "Children",
+					"suffix": "en"
+				},
+				{
+					"word": "Childish",
+					"suffix": "ish"
+				},
+				{
+					"word": "Childishly",
+					"suffix": "(i)ly"
+				},
+				{
+					"word": "Childishness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Childless",
+					"suffix": "less"
+				},
+				{
+					"word": "Childlessness",
+					"suffix": "ness"
+				},
+				{
+					"word": "Childhood",
+					"suffix": "hood"
+				}
+			]
+		}
+	]
+}
