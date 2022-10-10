@@ -9,7 +9,7 @@ import {
 } from "react-bootstrap";
 import "./App.css";
 import wordsData from "./words.json";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import AlertDismissible from "./components/AlertDismissible";
 
 function App() {
@@ -24,6 +24,10 @@ function App() {
 	);
 	const [answersInfo, setAnswersInfo] = useState(wordsData.roots[lesson].words);
 	const [text, setText] = useState("");
+
+	useEffect(() => {
+		document.title = "Word Sandwich";
+	});
 
 	const startNewGame = (word) => {
 		setRootWord(word);
