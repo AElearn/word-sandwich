@@ -155,10 +155,10 @@ function App() {
 						} else {
 							const hint =
 								answer.prefix && answer.suffix
-									? `(prefix + suffix)`
+									? `prefix (${answer.pLength} letters) + suffix (${answer.sLength} letters)`
 									: answer.prefix
-									? `(prefix)`
-									: `(suffix)`;
+									? `prefix: (${answer.pLength} letters)`
+									: `suffix: (${answer.sLength} letters)`;
 							return (
 								<ListGroup.Item
 									className="list-group-item-light"
