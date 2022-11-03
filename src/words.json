@@ -197,24 +197,28 @@
 				{
 					"word": "Impossible",
 					"prefix": "im",
-					"pLength": 2
+					"pLength": 2,
+					"base": "possible"
 				},
 				{
 					"word": "Possibly",
 					"suffix": "(i)ly",
-					"sLength": 3
+					"sLength": 2,
+					"base": "Possib"
 				},
 				{
 					"word": "Impossibly",
 					"prefix": "im",
 					"suffix": "(i)ly",
 					"pLength": 2,
-					"sLength": 3
+					"sLength": 2,
+					"base": "possib"
 				},
 				{
 					"word": "Possibility",
 					"suffix": "(i)ty",
-					"sLength": 3
+					"sLength": 5,
+					"base": "Possib"
 				}
 			]
 		},

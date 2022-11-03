@@ -80,7 +80,7 @@ function App() {
 										</NavDropdown.Item>
 									);
 								})
-								.filter((element, index) => index == lesson)}
+								.filter((element, index) => index === lesson)}
 						</Nav>
 					</Navbar.Collapse>
 				</Container>
@@ -153,12 +153,12 @@ function App() {
 								</ListGroup.Item>
 							);
 						} else {
-							const hint =
-								answer.prefix && answer.suffix
-									? `prefix (${answer.pLength} letters) + suffix (${answer.sLength} letters)`
-									: answer.prefix
-									? `prefix: (${answer.pLength} letters)`
-									: `suffix: (${answer.sLength} letters)`;
+							const baseIndex = answer.word.indexOf(answer.base);
+							const hint = `${"_ ".repeat(baseIndex)}${
+								answer.base
+							}${" _".repeat(
+								answer.word.length - baseIndex - answer.base.length
+							)}`;
 							return (
 								<ListGroup.Item
 									className="list-group-item-light"
