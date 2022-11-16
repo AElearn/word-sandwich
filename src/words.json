@@ -248,33 +248,29 @@
 			"words": [
 				{
 					"word": "Friendly",
-					"suffix": "(i)ly"
+					"suffix": "(i)ly",
+					"base": "Friend"
 				},
 				{
 					"word": "Unfriend",
-					"prefix": "un"
+					"prefix": "un",
+					"base": "friend"
 				},
 				{
 					"word": "Unfriendly",
 					"prefix": "un",
-					"suffix": "(i)ly"
-				},
-				{
-					"word": "Unfriendliness",
-					"prefix": "un",
-					"suffix": "ness"
+					"suffix": "(i)ly",
+					"base": "friend"
 				},
 				{
 					"word": "Friendless",
-					"suffix": "less"
-				},
-				{
-					"word": "Friendlessness",
-					"suffix": "ness"
+					"suffix": "less",
+					"base": "Friend"
 				},
 				{
 					"word": "Friendship",
-					"suffix": "ship"
+					"suffix": "ship",
+					"base": "Friend"
 				}
 			]
 		},
