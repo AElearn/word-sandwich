@@ -227,19 +227,23 @@
 			"words": [
 				{
 					"word": "Poetic",
-					"suffix": "ic"
+					"suffix": "ic",
+					"base": "Poet"
 				},
 				{
 					"word": "Poetical",
-					"suffix": "ical"
+					"suffix": "ical",
+					"base": "Poet"
 				},
 				{
 					"word": "Poetically",
-					"suffix": "(i)ly"
+					"suffix": "(i)ly",
+					"base": "Poet"
 				},
 				{
 					"word": "Poetry",
-					"suffix": "ry"
+					"suffix": "ry",
+					"base": "Poet"
 				}
 			]
 		},

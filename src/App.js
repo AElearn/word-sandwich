@@ -14,7 +14,7 @@ import AlertDismissible from "./components/AlertDismissible";
 
 function App() {
 	// Change this to the right lesson per week
-	const lesson = 3;
+	const lesson = 2;
 	const [showAlert, setShowAlert] = useState(false);
 	const [alertWord, setAlertWord] = useState("");
 	const [rootWord, setRootWord] = useState(wordsData.roots[lesson].root);
