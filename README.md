@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `npm run deploy`
 
-Saves changes to Github Pages
+Saves changes to Github Pages. No need to do git push after.
 
 ### `npm test`
 
