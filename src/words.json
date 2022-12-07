@@ -282,20 +282,24 @@
 			"root": "Art",
 			"words": [
 				{
-					"word": "Artful",
-					"suffix": "ful"
-				},
-				{
-					"word": "Artfully",
-					"suffix": "(i)ly"
-				},
-				{
-					"word": "Artfulness",
-					"suffix": "ness"
-				},
-				{
 					"word": "Artist",
-					"suffix": "ist"
+					"suffix": "ist",
+					"base": "Art"
+				},
+				{
+					"word": "Artistry",
+					"suffix": "ry",
+					"base": "Art"
+				},
+				{
+					"word": "Artistic",
+					"suffix": "ic",
+					"base": "Art"
+				},
+				{
+					"word": "Artistically",
+					"suffix": "(i)ly",
+					"base": "Art"
 				}
 			]
 		},
