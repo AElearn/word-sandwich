@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/word-sandwich/static/css/main.1462caec.css",
-    "main.js": "/word-sandwich/static/js/main.2b80c300.js",
+    "main.js": "/word-sandwich/static/js/main.59066a5e.js",
     "static/js/787.35a6404c.chunk.js": "/word-sandwich/static/js/787.35a6404c.chunk.js",
     "index.html": "/word-sandwich/index.html",
     "main.1462caec.css.map": "/word-sandwich/static/css/main.1462caec.css.map",
-    "main.2b80c300.js.map": "/word-sandwich/static/js/main.2b80c300.js.map",
+    "main.59066a5e.js.map": "/word-sandwich/static/js/main.59066a5e.js.map",
     "787.35a6404c.chunk.js.map": "/word-sandwich/static/js/787.35a6404c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1462caec.css",
-    "static/js/main.2b80c300.js"
+    "static/js/main.59066a5e.js"
   ]
 }
