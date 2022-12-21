@@ -308,15 +308,18 @@
 			"words": [
 				{
 					"word": "Brightly",
-					"suffix": "(i)ly"
+					"suffix": "(i)ly",
+					"base": "Bright"
 				},
 				{
 					"word": "Brightness",
-					"suffix": "ness"
+					"suffix": "ness",
+					"base": "Bright"
 				},
 				{
 					"word": "Brighten",
-					"suffix": "en"
+					"suffix": "en",
+					"base": "Bright"
 				}
 			]
 		},
