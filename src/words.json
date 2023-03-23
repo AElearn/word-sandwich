@@ -169,25 +169,30 @@
 			"words": [
 				{
 					"word": "Easily",
-					"suffix": "(i)ly"
+					"suffix": "(i)ly",
+					"base": "Eas"
 				},
 				{
 					"word": "Uneasy",
-					"prefix": "un"
+					"prefix": "un",
+					"base": "easy"
 				},
 				{
 					"word": "Uneasily",
 					"prefix": "un",
-					"suffix": "(i)ly"
+					"suffix": "(i)ly",
+					"base": "eas"
 				},
 				{
 					"word": "Easiness",
-					"suffix": "ness"
+					"suffix": "ness",
+					"base": "Easi"
 				},
 				{
 					"word": "Uneasiness",
 					"prefix": "un",
-					"suffix": "ness"
+					"suffix": "ness",
+					"base": "easi"
 				}
 			]
 		},

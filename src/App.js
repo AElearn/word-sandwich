@@ -14,7 +14,7 @@ import AlertDismissible from "./components/AlertDismissible";
 
 function App() {
 	// Change this to the right lesson per week
-	const lesson = 5;
+	const lesson = 0;
 	const [showAlert, setShowAlert] = useState(false);
 	const [alertWord, setAlertWord] = useState("");
 	const [rootWord, setRootWord] = useState(wordsData.roots[lesson].root);
@@ -76,7 +76,7 @@ function App() {
 											key={index}
 											onClick={() => startNewGame(element.root)}
 										>
-											Lesson {Math.floor(index / 2) + 1}-{(index % 2) + 1}
+											Lesson {index + 1}
 										</NavDropdown.Item>
 									);
 								})
