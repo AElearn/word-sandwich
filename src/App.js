@@ -61,6 +61,13 @@ function App() {
 		return word[0].toUpperCase() + word.substring(1).toLowerCase();
 	};
 
+	const checkKeyPress = (e) => {
+		const { keyCode } = e;
+		if (keyCode === 13) {
+			onSubmit();
+		}
+	};
+
 	return (
 		<>
 			<Navbar bg="light" expand="lg">
@@ -124,12 +131,16 @@ function App() {
 				<h1 className="red">{formattedWord(rootWord)}</h1>
 				<Form.Control
 					placeholder="Type here"
-					className="d-inline-flex p-2"
+					className="align-middle d-inline-flex p-2"
 					style={{ maxWidth: "170px" }}
 					value={text}
 					onChange={(e) => setText(e.target.value)}
+					onKeyDown={checkKeyPress}
 				/>{" "}
-				<Button className="d-inline-flex p-2" onClick={() => onSubmit()}>
+				<Button
+					className="align-middle d-inline-flex p-2"
+					onClick={() => onSubmit()}
+				>
 					Submit
 				</Button>
 				<br /> <br />
