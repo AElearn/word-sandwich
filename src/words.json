@@ -228,31 +228,6 @@
 			]
 		},
 		{
-			"root": "Poet",
-			"words": [
-				{
-					"word": "Poetic",
-					"suffix": "ic",
-					"base": "Poet"
-				},
-				{
-					"word": "Poetical",
-					"suffix": "ical",
-					"base": "Poet"
-				},
-				{
-					"word": "Poetically",
-					"suffix": "(i)ly",
-					"base": "Poet"
-				},
-				{
-					"word": "Poetry",
-					"suffix": "ry",
-					"base": "Poet"
-				}
-			]
-		},
-		{
 			"root": "Friend",
 			"words": [
 				{
@@ -280,6 +255,31 @@
 					"word": "Friendship",
 					"suffix": "ship",
 					"base": "Friend"
+				}
+			]
+		},
+		{
+			"root": "Poet",
+			"words": [
+				{
+					"word": "Poetic",
+					"suffix": "ic",
+					"base": "Poet"
+				},
+				{
+					"word": "Poetical",
+					"suffix": "ical",
+					"base": "Poet"
+				},
+				{
+					"word": "Poetically",
+					"suffix": "(i)ly",
+					"base": "Poet"
+				},
+				{
+					"word": "Poetry",
+					"suffix": "ry",
+					"base": "Poet"
 				}
 			]
 		},
